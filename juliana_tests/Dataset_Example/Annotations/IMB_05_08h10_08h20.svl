@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="10" name="" sampleRate="48000" start="0" end="28800000" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="9" subtype="box" minimum="600" maximum="1000" units="Hz" />
+  </data>
+  <dataset id="9" dimensions="2">
+    <point frame="6813787" value="1500" duration="10606" extent="1500" label="pulse" />
+    <point frame="6844510" value="1500" duration="7680" extent="1500" label="pulse" />
+    <point frame="9058025" value="1500" duration="49375" extent="1500" label="pulse" />
+    <point frame="9170675" value="1500" duration="36574" extent="1500" label="pulse" />
+    <point frame="12043964" value="1500" duration="12435" extent="1500" label="pulse" />
+    <point frame="12075418" value="1500" duration="8412" extent="1500" label="pulse" />
+    <point frame="12127720" value="1500" duration="11703" extent="1500" label="pulse" />
+    <point frame="12272555" value="1500" duration="10606" extent="1500" label="pulse" />
+    <point frame="12873839" value="1500" duration="9875" extent="1500" label="pulse" />
+    <point frame="12911145" value="1500" duration="34745" extent="1500" label="pulse" />
+    <point frame="13347478" value="1500" duration="13898" extent="1500" label="pulse" />
+    <point frame="13495970" value="1500" duration="24504" extent="1500" label="pulse" />
+    <point frame="13556684" value="1500" duration="10972" extent="1500" label="pulse" />
+    <point frame="13879270" value="1500" duration="12435" extent="1500" label="pulse" />
+    <point frame="13978753" value="1500" duration="9143" extent="1500" label="pulse" />
+    <point frame="14035078" value="1500" duration="11703" extent="1500" label="pulse" />
+    <point frame="14135292" value="1500" duration="12069" extent="1500" label="pulse" />
+    <point frame="14312678" value="1500" duration="14264" extent="1500" label="pulse" />
+    <point frame="14411429" value="1500" duration="14629" extent="1500" label="pulse" />
+    <point frame="14535416" value="1500" duration="11703" extent="1500" label="pulse" />
+    <point frame="14642214" value="1500" duration="10240" extent="1500" label="pulse" />
+    <point frame="14814479" value="1500" duration="11338" extent="1500" label="pulse" />
+    <point frame="15010884" value="1500" duration="10606" extent="1500" label="pulse" />
+    <point frame="15892695" value="1500" duration="15361" extent="1500" label="pulse" />
+    <point frame="15999126" value="1500" duration="9875" extent="1500" label="pulse" />
+    <point frame="16149081" value="1500" duration="9875" extent="1500" label="pulse" />
+    <point frame="16439117" value="1500" duration="9143" extent="1500" label="pulse" />
+    <point frame="16605897" value="1500" duration="18287" extent="1500" label="pulse" />
+    <point frame="17497948" value="1500" duration="10972" extent="1500" label="pulse" />
+    <point frame="18028643" value="1500" duration="13898" extent="1500" label="pulse" />
+    <point frame="18426573" value="1500" duration="51204" extent="1500" label="pulse" />
+    <point frame="18586404" value="1500" duration="15727" extent="1500" label="pulse" />
+    <point frame="18728678" value="1500" duration="72051" extent="1500" label="pulse" />
+    <point frame="19415547" value="1500" duration="8777" extent="1500" label="pulse" />
+    <point frame="19506251" value="1500" duration="10972" extent="1500" label="pulse" />
+    <point frame="21411781" value="1500" duration="54861" extent="1500" label="pulse" />
+    <point frame="21533574" value="1500" duration="14264" extent="1500" label="pulse" />
+    <point frame="23334866" value="1500" duration="16458" extent="1500" label="pulse" />
+    <point frame="23715606" value="1500" duration="29259" extent="1500" label="pulse" />
+    <point frame="25023143" value="1500" duration="9509" extent="1500" label="pulse" />
+    <point frame="25296354" value="1500" duration="17190" extent="1500" label="pulse" />
+    <point frame="25563348" value="1500" duration="19018" extent="1500" label="pulse" />
+    <point frame="25837656" value="1500" duration="56324" extent="1500" label="pulse" />
+    <point frame="25985051" value="1500" duration="12435" extent="1500" label="pulse" />
+    <point frame="26064784" value="1500" duration="14629" extent="1500" label="pulse" />
+    <point frame="26204132" value="1500" duration="14629" extent="1500" label="pulse" />
+    <point frame="26854426" value="1500" duration="122524" extent="1500" label="pulse" />
+    <point frame="27864613" value="1500" duration="21944" extent="1500" label="pulse" />
+    <point frame="28640357" value="1500" duration="152149" extent="1500" label="pulse" />
+  </dataset>
+  <display>
+    <layer id="2" type="boxes" name="Boxes" model="10" verticalScale="0" colourName="White" colour="#ffffff" darkBackground="true" />
+  </display>
+</sv>
